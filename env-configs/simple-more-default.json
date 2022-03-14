@@ -1,0 +1,5 @@
+{
+  "num_targets": 5,
+  "reward_scales": 3.0,
+  "size_scales": 1.0
+}

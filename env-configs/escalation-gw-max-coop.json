@@ -1,0 +1,7 @@
+{
+  "share_reward": false,
+  "shape_reward": false,
+  "shape_beta": 0.8,
+  "symmetry_plan": null,
+  "max_coop_steps": 12
+}

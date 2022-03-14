@@ -1,0 +1,5 @@
+{
+  "num_targets": 6,
+  "reward_scales": "exp-1.5",
+  "game_end_after_touch": false
+}

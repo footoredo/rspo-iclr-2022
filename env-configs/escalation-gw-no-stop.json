@@ -1,0 +1,7 @@
+{
+  "share_reward": false,
+  "shape_reward": false,
+  "shape_beta": 0.8,
+  "symmetry_plan": "other-play",
+  "stop_after_split": false
+}

@@ -1,0 +1,6 @@
+{
+  "num_targets": 4,
+  "reward_scales": "exp-2",
+  "size_scales": "exp-1",
+  "game_end_after_touch": false
+}

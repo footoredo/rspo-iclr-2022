@@ -1,0 +1,6 @@
+{
+  "num_targets": 2,
+  "depth": 1,
+  "reward_scale": 1.0,
+  "size_scale": 100.0
+}

@@ -1,0 +1,5 @@
+{
+  "num_targets": 4,
+  "reward_scales": 1.0,
+  "game_end_after_touch": true
+}

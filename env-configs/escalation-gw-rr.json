@@ -1,0 +1,7 @@
+{
+  "share_reward": false,
+  "shape_reward": false,
+  "shape_beta": 0.8,
+  "defect_coef": 0.0,
+  "symmetry_plan": null
+}
